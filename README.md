@@ -80,7 +80,7 @@ A full-stack web application for alumni to stay connected with their institution
 
 ![PostgreSQL database in pgAdmin](Screenshots/pGAdmin_Database.png)
 
-## 👨‍🏫 Project Supervisor Details
+## Project Supervisor Details
 
 | Detail | Information |
 | :--- | :--- |

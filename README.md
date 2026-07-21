@@ -87,5 +87,5 @@ A full-stack web application for alumni to stay connected with their institution
 | **Name & Title** | Dr. Muhammad Asif (Postdoctoral - US, Assistant Professor) |
 | **Department** | Department of Computer and Software Engineering, Faculty of Engineering |
 | **Institution** | Information Technology University (ITU), Lahore, Punjab, Pakistan |
-| **Email** | [muhammad.asif@itu.edu.pk](mailto:muhammad.asif@itu.edu.pk) |
+| **Email** | [muhammad.asif@itu.edu.pk](mailto:muhammad.asif@itu.edu.pk) | 
 
